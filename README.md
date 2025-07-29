@@ -103,5 +103,5 @@ Eu sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Cl
 ## 📫 Como me encontrar
 
 - 📩 E-mail: [andref.lopes@outlook.com](mailto:andref.lopes@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/andref-lopes](https://www.linkedin.com/in/andref-lopes/){:target="_blank"}
-- 💻 GitHub: [github.com/andref03](https://github.com/andref03){:target="_blank"}
+- 💼 LinkedIn: [linkedin.com/in/andref-lopes](https://www.linkedin.com/in/andref-lopes/)
+- 💻 GitHub: [github.com/andref03](https://github.com/andref03)
