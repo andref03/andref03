@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://github.com/andref03" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=andref03&show_icons=true&theme=tokyonight&cache_seconds=300" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andref03&show_icons=true&theme=tokyonight&cache_seconds=300" />
   </a>
   <a href="https://github.com/andref03" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andref03&layout=compact&theme=tokyonight&cache_seconds=300&langs_count=10" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andref03&layout=compact&theme=tokyonight&cache_seconds=300&langs_count=10" />
   </a>
 </div>
 
@@ -26,31 +26,24 @@
 
 ## 🚀 Sobre Mim
 
-Eu sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Claros** e tenho um grande interesse por tecnologia, inovação e tudo que envolve resolver problemas com código. Sempre tenho muita curiosidade e gosto de explorar ideias novas, aprendendo com a prática — seja em projetos, estudos ou em equipe. Acredito que boas soluções nascem de boas perguntas, e por isso estou sempre buscando evoluir como desenvolvedor e como pessoa.
+Sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Claros**, com interesse em desenvolvimento de software, inteligência artificial, machine learning e ciência de dados. Tenho experiência com linguagens como C/C++, Java, Python, Rust e PHP, além de utilizar ferramentas como Docker para gerenciamento de ambientes.
 
 ---
 
 <details open>
-  <summary><h2>📘 Alguns dos Meus Projetos</h2></summary>
+<summary><h2>📘 Alguns dos Meus Projetos</h2></summary>
 
-  <div align="left">
+<p align="left">
 
-  <a href="https://github.com/andref03/SAGE-Project" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andref03&repo=SAGE-Project&theme=tokyonight&hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/andref03/Previsao-de-fraudes-financeiras-com-uso-do-algoritmo-PCA" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andref03&repo=Previsao-de-fraudes-financeiras-com-uso-do-algoritmo-PCA&theme=tokyonight&hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/andref03/Rankeamento-feito-por-PCA-Principal-Component-Analysis" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andref03&repo=Rankeamento-feito-por-PCA-Principal-Component-Analysis&theme=tokyonight&hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/andref03/Previsao-de-Diabetes" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andref03&repo=Previsao-de-Diabetes&theme=tokyonight&hide_border=true" width="400" />
-  </a>
-  <a href="https://github.com/andref03/Previsao-de-Churn" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andref03&repo=Previsao-de-Churn&theme=tokyonight&hide_border=true" width="400" />
-  </a>
-  </div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andref03&repo=SAGE-Project&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andref03&repo=Previsao-de-fraudes-financeiras-com-uso-do-algoritmo-PCA&theme=tokyonight&hide_border=true" width="400" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andref03&repo=Rankeamento-feito-por-PCA-Principal-Component-Analysis&theme=tokyonight&hide_border=true" width="400" />
+
+</p>
+
+</details>
 
   <div align="left" style="margin-top: 16px;">
     <a href="https://github.com/andref03?tab=repositories" target="_blank">
@@ -63,7 +56,7 @@ Eu sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Cl
 
 ## 💼 O que eu faço
 
-- Desenvolvimento em **C**, **C++**, **Java** e **Python**
+- Desenvolvimento em **C**, **C++**, **Java**, **Python** e **Rust**
 - Criação de **layouts responsivos** com **HTML** e **CSS**
 - Modelagem e gerenciamento de **bancos de dados** (MySQL, PostgreSQL)
 - Controle de versão com **Git** e GitHub
