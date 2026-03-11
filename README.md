@@ -80,6 +80,8 @@ Sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Claro
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"/>
+  <img height="30" src="https://cdn.simpleicons.org/assemblyscript/white" alt="Assembly"/>
 </div>
 
 ---
@@ -87,8 +89,8 @@ Sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Claro
 ## 📚 Atualmente Estudando
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendendo-Laravel-%23777BB4?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendendo-Assembly-black?style=for-the-badge&logo=assembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aprendendo-Nim-FFC200?style=for-the-badge&logo=nim&logoColor=black" />
+  <img src="https://img.shields.io/badge/Aprendendo-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ---
