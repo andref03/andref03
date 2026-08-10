@@ -13,13 +13,17 @@
 <hr />
 
 <div align="center">
+
   <a href="https://github.com/andref03" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=andref03&show_icons=true&theme=tokyonight&cache_seconds=300" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andref03&show_icons=true&theme=tokyonight&cache_seconds=300" />
   </a>
+
   <a href="https://github.com/andref03" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andref03&layout=compact&theme=tokyonight&cache_seconds=300&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andref03&layout=compact&theme=tokyonight&cache_seconds=300&langs_count=10" />
   </a>
+
 </div>
+
 
 
 ---
@@ -39,11 +43,7 @@
 
 <p align="left">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andref03&repo=SAGE-Project&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andref03&repo=Previsao-de-fraudes-financeiras-com-uso-do-algoritmo-PCA&theme=tokyonight&hide_border=true" width="400" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andref03&repo=Rankeamento-feito-por-PCA-Principal-Component-Analysis&theme=tokyonight&hide_border=true" width="400" />
+<img src="github-readme-stats.vercel.app/api/pin/?username=andref03&repo=SAGE-Project&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -76,23 +76,10 @@ PostgreSQL · MySQL
 
 ## 🛠️ Ferramentas
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"/>
-  <img height="30" src="https://cdn.simpleicons.org/assemblyscript/white" alt="Assembly"/>
+<div align="center">
+
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab"/>
+
 </div>
 
 ---
@@ -100,8 +87,10 @@ PostgreSQL · MySQL
 ## 📚 Atualmente Estudando
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendendo-Nim-FFC200?style=for-the-badge&logo=nim&logoColor=black" />
-  <img src="https://img.shields.io/badge/Aprendendo-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
