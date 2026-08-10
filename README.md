@@ -26,7 +26,11 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Claros**, com interesse em desenvolvimento de software, inteligência artificial, machine learning e ciência de dados. Tenho experiência com linguagens como C/C++, Java, Python, Rust e PHP, além de utilizar ferramentas como Docker para gerenciamento de ambientes.
+🎓 Estudante de Ciência da Computação no IFNMG — Campus Montes Claros.
+
+💻 Interesse em desenvolvimento de software, ciência de dados e machine learning.
+
+🔭 Atualmente trabalhando com PHP/Yii2, testes automatizados e PostgreSQL.
 
 ---
 
@@ -54,16 +58,23 @@ Sou estudante de **Ciência da Computação** no **IFNMG — Campus Montes Claro
 
 ---
 
-## 💼 O que eu faço
+## 💻 Tecnologias
 
-- Desenvolvimento em **C**, **C++**, **Java**, **Python** e **Rust**
-- Criação de **layouts responsivos** com **HTML** e **CSS**
-- Modelagem e gerenciamento de **bancos de dados** (MySQL, PostgreSQL)
-- Controle de versão com **Git** e GitHub
+Linguagens:
+Python · Java · PHP · C · C++ · Rust
+
+Frameworks & Ferramentas:
+Yii2 · Codeception · Docker · Git · Linux
+
+Dados & IA:
+Pandas · Scikit-learn · Machine Learning
+
+Bancos de dados:
+PostgreSQL · MySQL
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Ferramentas
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>
