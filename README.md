@@ -10,22 +10,6 @@
   <img src="https://img.shields.io/github/stars/andref03?style=social" />
 </a>
 
-<hr />
-
-<div align="center">
-
-  <a href="https://github.com/andref03" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=andref03&show_icons=true&theme=tokyonight&cache_seconds=300" />
-  </a>
-
-  <a href="https://github.com/andref03" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andref03&layout=compact&theme=tokyonight&cache_seconds=300&langs_count=10" />
-  </a>
-
-</div>
-
-
-
 ---
 
 ## 🚀 Sobre Mim
@@ -39,13 +23,7 @@
 ---
 
 <details open>
-<summary><h2>📘 Alguns dos Meus Projetos</h2></summary>
-
-<p align="left">
-
-<img src="github-readme-stats.vercel.app/api/pin/?username=andref03&repo=SAGE-Project&theme=tokyonight&hide_border=true" />
-
-</p>
+<summary><h2>📘 Meus Projetos</h2></summary>
 
 </details>
 
@@ -60,17 +38,21 @@
 
 ## 💻 Tecnologias
 
-Linguagens:
-Python · Java · PHP · C · C++ · Rust
+**Linguagens:**
 
-Frameworks & Ferramentas:
-Yii2 · Codeception · Docker · Git · Linux
+- Python · Java · PHP · C · C++ · Rust
 
-Dados & IA:
-Pandas · Scikit-learn · Machine Learning
+**Frameworks & Ferramentas:**
 
-Bancos de dados:
-PostgreSQL · MySQL
+- Yii2 · Codeception · Docker · Git · Linux
+
+**Dados & IA:**
+
+- Pandas · Scikit-learn · Machine Learning
+
+**Bancos de dados:**
+
+- PostgreSQL · MySQL
 
 ---
 
