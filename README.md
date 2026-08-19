@@ -22,17 +22,13 @@
 
 ---
 
-<details open>
-<summary><h2>📘 Meus Projetos</h2></summary>
-
-</details>
+<h2>📘 Meus Projetos</h2>
 
   <div align="left" style="margin-top: 16px;">
     <a href="https://github.com/andref03?tab=repositories" target="_blank">
       <img alt="Ver todos os repositórios" src="https://img.shields.io/badge/→ Ver%20todos%20os%20repositórios-blue?style=for-the-badge&logo=github" />
     </a>
   </div>
-</details>
 
 ---
 
@@ -71,7 +67,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
@@ -79,6 +74,10 @@
 
 ## 📫 Como me encontrar
 
-- 📩 E-mail: [andref.lopes@outlook.com](mailto:andref.lopes@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/andref-lopes](https://www.linkedin.com/in/andref-lopes/)
-- 💻 GitHub: [github.com/andref03](https://github.com/andref03)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andref-lopes/)&nbsp;
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:andref.lopes@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andref03)
+
+</div>
