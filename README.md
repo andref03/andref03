@@ -1,4 +1,4 @@
-<h1>👋 Olá, me chamo André!</h1>
+<h1>🖖 Olá, me chamo André!</h1>
 
 <a href="https://www.linkedin.com/in/andref-lopes/" target="_blank">
   <img src="https://img.shields.io/badge/-André%20Felipe-blue?style=flat&logo=Linkedin&logoColor=white" />
